@@ -11,3 +11,4 @@ Em nossa [Wiki](https://github.com/voltsdigital/documentation/wiki) estão docum
 * [Banco de Dados](https://github.com/voltsdigital/documentation/wiki/Banco-de-Dados)
 * [Diretórios](https://github.com/voltsdigital/documentation/wiki/Diretorios)
 * [GIT](https://github.com/voltsdigital/documentation/wiki/GIT)
+* [Testes](https://github.com/voltsdigital/documentation/wiki/Testes)
