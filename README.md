@@ -12,3 +12,4 @@ Em nossa [Wiki](https://github.com/voltsdigital/documentation/wiki) estão docum
 * [Diretórios](https://github.com/voltsdigital/documentation/wiki/Diretorios)
 * [GIT](https://github.com/voltsdigital/documentation/wiki/GIT)
 * [Testes](https://github.com/voltsdigital/documentation/wiki/Testes)
+* [Schema.org](https://github.com/voltsdigital/documentation/wiki/Schema.org)
